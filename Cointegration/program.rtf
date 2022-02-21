@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9600\viewh13480\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 top price percentage\
+bottom price percentage\
+\
+bool start = topPair = 0;\
+bool neutral = bottom == top;\
+bool noFlip = top > bottom;\
+bool flip = bottom > top;\
+\
+\
+if (neutral) \{\
+top pair = 0;\
+streak = 0;\
+spread = 0;\
+\}\
+\
+if (flip) \{\
+change top pair\
+streak = 0;\
+spread = new top - new bottom;\
+\}\
+\
+if (noFlip) \{\
+spread = top - bottom;\
+	if (new spread > old spread) \{\
+	streak++;\
+		spread = new spread;\
+	\}\
+	else \{\
+		streak = 0;\
+		spread = new spread;\
+	\}\
+\}\
+\
+write to file\
+\
+update checkUpdate}

@@ -1,1 +1,1 @@
-# forex-trading
+# Forex trading
