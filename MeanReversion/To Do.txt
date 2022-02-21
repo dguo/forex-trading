@@ -1,0 +1,56 @@
+Initialize:
+1. Figure out pip values
+2. Up credit card limit
+3. Verify historical prices
+4. Write EA
+
+	constants:
+	double minimumEquity
+            int tradeMinute
+	int tradeHour
+	double margin
+
+
+	variables:
+	int currentMinute
+	int currentHour
+	int currentDay
+	boolean shouldSleep
+	boolean canTrade
+
+	init:
+	array of tickers
+	currentMinute = Minute()
+	currentHour = Hour()
+	(read in record.csv to update) currentDay
+	sleep = false
+	canTrade = true
+
+	main:
+	-while loop
+		-sleep = false
+		-if (Minute() != checkMinute)
+			-check account equity
+			-if account equity < min, close all positions, send emergency email, and canTrade = false
+			-create new history if new day
+			-update current history if not new day
+			-shouldSleep = true
+			-update checkMinute
+		-if (Hour() != checkHour)
+			-send email (subject is date, message is time + account equity)
+			-update checkHour
+		-if (Day() != checkDay && Minute() == tradeMinute && Hour() == tradeHour && canTrade)
+ 			-read in record.csv
+			-update positions
+			-update record.csv with new checkDay, new bid prices and current positions and then close the file
+			-send email (subject is "Rebalanced", message is date + account equity)
+		-if (shouldSleep)
+			-sleep for 50 sec.
+
+
+-check updating history
+
+Optimize:
+1. Try different combinations of pairs
+2. Try weighted entry
+3. Update EA if necessary
