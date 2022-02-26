@@ -1,0 +1,52 @@
+global variables:
+
+margin
+numberOfPairs
+percentageIn
+transitionHour
+stopTrades
+array of pair names
+
+
+
+int checkMinute (get from checkMinute.csv)
+
+
+if (Minute() != checkMinute && TimeGood()) {
+	update currentAverages.csv
+	update checkMinute.csv
+	sleep for 30 seconds
+}
+
+int checkHour (get from checkHour.csv)
+
+if (Hour() != checkHour && TimeGood())
+	determine portion of oldPositions.csv to close
+	determine new positions from newPositionSizes.csv and oldAverages.csv
+	compare the two to determine net action
+	complete net action
+	update checkHour.csv
+	update oldPositions.csv
+	send email
+}
+
+int checkDay (get from checkDay.csv)
+
+if (Day() != checkDay && Hour() == transitionHour && TimeGood()) {
+	update oldAverages.csv using currentAverages.csv
+	reset currentAverages.csv
+	update oldPositions.csv
+	update newPositionSizes.csv
+	update checkDay.csv
+}
+
+
+functions:
+firstGreater
+doublesSame
+QuoteToHome
+BaseToHome
+TimeGood
+placeOrder
+unitsToLots
+closeAll

@@ -1,0 +1,9 @@
+checkMinute
+checkHour
+checkDay
+
+currentAverages
+oldAverages
+
+newPositionSizes (for new orders)
+oldPositions (1st column is fixed oldPositions, 2nd is updated)

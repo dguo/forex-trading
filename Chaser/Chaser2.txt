@@ -1,0 +1,7 @@
+(distances)
+if (currentPrices[leadIndex] > baseprices[leadIndex] && leadDirection == 0) distances[leadIndex] = distances[leadIndex] + 5.0;
+if (currentPrices[leadIndex] < basePrices[leadIndex] && leadDirection == 1) distances[leadIndex] = distances[leadIndex] + 5.0;
+
+if ((pair && reversal) || (winnerDistance > leadDistance)) exit
+
+if (!pair && winnerDistance > 25) enter

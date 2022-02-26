@@ -1,0 +1,48 @@
+global variables:
+
+numberOfPairs
+stopTrades
+array of pair names
+
+if (TimeGood()) {
+
+	read in record.csv
+	basePrices
+	lockPrices
+	currentPrices (use MarketInfo)
+
+	calculate distances
+	reset if reversal
+	find biggest absolute distance
+	string leadPair
+	int direction
+
+	if (OrdersTotal() == 0 && !stopTrades) {
+		place the order with the leadPair
+	}
+
+	else {
+		OrderSelect(0, SBP)
+		if (OrderSymbol() != leadPair) {
+			closeAllOrders
+			place the order with the leadPair
+		}
+	}
+
+	int checkHour (get from checkHour.csv)
+
+	if (Hour() != checkHour)
+		update checkHour.csv
+		send email
+	}
+
+}
+
+
+functions:
+firstGreater
+doublesSame
+TimeGood
+placeOrder
+unitsToLots
+closeAllOrders

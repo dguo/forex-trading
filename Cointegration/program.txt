@@ -1,0 +1,36 @@
+top price percentage
+bottom price percentage
+
+bool start = topPair = 0;
+bool neutral = bottom == top;
+bool noFlip = top > bottom;
+bool flip = bottom > top;
+
+
+if (neutral) {
+top pair = 0;
+streak = 0;
+spread = 0;
+}
+
+if (flip) {
+change top pair
+streak = 0;
+spread = new top - new bottom;
+}
+
+if (noFlip) {
+spread = top - bottom;
+	if (new spread > old spread) {
+	streak++;
+		spread = new spread;
+	}
+	else {
+		streak = 0;
+		spread = new spread;
+	}
+}
+
+write to file
+
+update checkUpdate
