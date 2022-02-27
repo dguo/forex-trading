@@ -1,0 +1,334 @@
+close EURJPY at 109.01
+buy GBPAUD at 1.5751, distance: 23.6
+close GBPAUD at 1.5747
+sell GBPCAD at 1.5998, distance: -11.4
+close GBPCAD at 1.6004
+sell EURCAD at 1.4, distance: -11
+close EURCAD at 1.4009
+sell EURJPY at 108.931, distance: -9
+close EURJPY at 108.887
+sell EURCHF at 1.0766, distance: -21.4
+close EURCHF at 1.0777
+buy GBPAUD at 1.5768, distance: 21.3
+close GBPAUD at 1.5763
+buy EURAUD at 1.3804, distance: 11.6
+close EURAUD at 1.3796
+buy EURUSD at 1.4186, distance: 10.6
+close EURUSD at 1.4192
+sell GBPAUD at 1.5738, distance: -24.1
+close GBPAUD at 1.5752
+buy GBPCHF at 1.2326, distance: 16.4
+close GBPCHF at 1.2326
+buy EURCAD at 1.4017, distance: 12.4
+close EURCAD at 1.4013
+sell GBPCHF at 1.2314, distance: -18.3
+close GBPCHF at 1.2313
+sell GBPAUD at 1.5752, distance: -10.7
+close GBPAUD at 1.5763
+buy GBPCHF at 1.2313, distance: 7.8
+close GBPCHF at 1.2309
+buy GBPJPY at 124.46, distance: 5.9
+close GBPJPY at 124.394
+sell GBPAUD at 1.5747, distance: -15.8
+close GBPAUD at 1.5742
+sell GBPCHF at 1.2293, distance: -17.8
+close GBPCHF at 1.2299
+sell EURCAD at 1.3997, distance: -17
+close EURCAD at 1.4001
+sell EURCHF at 1.0756, distance: -17.2
+close EURCHF at 1.0761
+sell GBPCHF at 1.2273, distance: -17.1
+close GBPCHF at 1.2283
+buy EURCHF at 1.0765, distance: 10.9
+close EURCHF at 1.0796
+buy GBPCHF at 1.2327, distance: 58.5
+close GBPCHF at 1.2316
+sell GBPAUD at 1.5729, distance: -14.6
+close GBPAUD at 1.5733
+sell EURCHF at 1.0773, distance: -17.8
+close EURCHF at 1.0782
+buy GBPCAD at 1.6012, distance: 15.4
+close GBPCAD at 1.6023
+buy GBPAUD at 1.5774, distance: 16.7
+close GBPAUD at 1.5765
+buy EURUSD at 1.4204, distance: 18.9
+close EURUSD at 1.4207
+buy GBPAUD at 1.5783, distance: 16.6
+close GBPAUD at 1.5787
+sell GBPCHF at 1.2253, distance: -42.1
+close GBPCHF at 1.2256
+sell EURUSD at 1.416, distance: -16.1
+close EURUSD at 1.4164
+sell GBPAUD at 1.5768, distance: -14.6
+close GBPAUD at 1.577
+buy GBPCHF at 1.2265, distance: 39.5
+close GBPCHF at 1.2252
+sell GBPAUD at 1.5753, distance: -23.4
+close GBPAUD at 1.5742
+buy EURCHF at 1.0769, distance: 49.6
+close EURCHF at 1.084
+buy GBPCHF at 1.237, distance: 85.1
+close GBPCHF at 1.2352
+buy EURAUD at 1.381, distance: 23.7
+close EURAUD at 1.3809
+sell GBPCHF at 1.2365, distance: -42
+close GBPCHF at 1.2382
+buy EURAUD at 1.3815, distance: 16.3
+close EURAUD at 1.3814
+buy EURCHF at 1.0902, distance: 44.3
+close EURCHF at 1.0914
+buy GBPCHF at 1.2446, distance: 70.8
+close GBPCHF at 1.2444
+sell EURUSD at 1.4202, distance: -11.9
+close EURUSD at 1.4202
+sell GBPCHF at 1.2437, distance: -29.1
+close GBPCHF at 1.2453
+buy GBPJPY at 124.281, distance: 19.3
+close GBPJPY at 124.249
+buy GBPCHF at 1.2464, distance: 36.6
+close GBPCHF at 1.2593
+buy GBPUSD at 1.6276, distance: 33.2
+close GBPUSD at 1.6271
+sell GBPCHF at 1.2579, distance: -44.5
+close GBPCHF at 1.2575
+buy GBPJPY at 124.829, distance: 14.3
+close GBPJPY at 124.844
+buy GBPCHF at 1.2577, distance: 29
+close GBPCHF at 1.2547
+buy GBPUSD at 1.6288, distance: 18.2
+close GBPUSD at 1.6283
+sell GBPCHF at 1.2544, distance: -27
+close GBPCHF at 1.2553
+buy GBPCAD at 1.6076, distance: 11.1
+close GBPCAD at 1.6065
+buy EURCHF at 1.0985, distance: 11.6
+close EURCHF at 1.1011
+sell EURAUD at 1.3774, distance: -19.1
+close EURAUD at 1.3783
+buy GBPCHF at 1.2602, distance: 14.1
+close GBPCHF at 1.2589
+sell EURUSD at 1.4238, distance: -10.3
+close EURUSD at 1.4239
+sell GBPCHF at 1.2565, distance: -27
+close GBPCHF at 1.2575
+buy GBPJPY at 124.936, distance: 5.9
+close GBPJPY at 124.915
+buy GBPCHF at 1.2574, distance: 17.2
+close GBPCHF at 1.2566
+buy GBPCAD at 1.6062, distance: 10.1
+close GBPCAD at 1.6065
+buy EURCAD at 1.4057, distance: 15.8
+close EURCAD at 1.4051
+sell GBPCHF at 1.2535, distance: -32.9
+close GBPCHF at 1.255
+sell GBPCAD at 1.6054, distance: -15.5
+close GBPCAD at 1.6059
+buy EURCHF at 1.0988, distance: 21.7
+close EURCHF at 1.0971
+buy EURCAD at 1.4054, distance: 14.7
+close EURCAD at 1.4056
+sell EURCHF at 1.0957, distance: -24.1
+close EURCHF at 1.0974
+buy EURCAD at 1.4067, distance: 13.2
+close EURCAD at 1.4057
+sell GBPCAD at 1.6067, distance: -4.2
+close GBPCAD at 1.6068
+sell EURCHF at 1.0941, distance: -23.3
+close EURCHF at 1.0941
+buy GBPUSD at 1.6283, distance: 16.6
+close GBPUSD at 1.6274
+sell EURCHF at 1.0932, distance: -13.6
+close EURCHF at 1.0951
+buy GBPCAD at 1.6085, distance: 12.3
+close GBPCAD at 1.608
+buy EURUSD at 1.4242, distance: 16.4
+close EURUSD at 1.424
+buy EURCHF at 1.0957, distance: 22.5
+close EURCHF at 1.0969
+sell GBPAUD at 1.5746, distance: -28.3
+close GBPAUD at 1.5749
+buy EURCHF at 1.0996, distance: 16.6
+close EURCHF at 1.098
+sell GBPAUD at 1.573, distance: -11.5
+close GBPAUD at 1.574
+sell GBPCHF at 1.2528, distance: -20.9
+close GBPCHF at 1.2537
+buy GBPCAD at 1.6075, distance: 9.4
+close GBPCAD at 1.6065
+sell EURJPY at 109.197, distance: -4.3
+close EURJPY at 109.243
+buy EURCHF at 1.0998, distance: 11.3
+close EURCHF at 1.0997
+sell GBPAUD at 1.5715, distance: -19.7
+close GBPAUD at 1.5721
+sell GBPCHF at 1.2514, distance: -41
+close GBPCHF at 1.2527
+sell EURCAD at 1.4068, distance: -17.5
+close EURCAD at 1.407
+sell EURUSD at 1.4248, distance: -10.8
+close EURUSD at 1.4248
+buy GBPCAD at 1.606, distance: 16.8
+close GBPCAD at 1.6047
+buy EURJPY at 109.401, distance: 31.2
+close EURJPY at 109.407
+buy GBPCHF at 1.257, distance: 42.7
+close GBPCHF at 1.2564
+buy GBPAUD at 1.5749, distance: 20.8
+close GBPAUD at 1.5752
+buy GBPJPY at 124.918, distance: 16.6
+close GBPJPY at 124.96
+buy EURJPY at 109.581, distance: 21.5
+close EURJPY at 109.477
+buy EURCAD at 1.4101, distance: 17.8
+close EURCAD at 1.4091
+buy GBPCAD at 1.609, distance: 19.6
+close GBPCAD at 1.6082
+sell EURUSD at 1.4266, distance: -20.3
+close EURUSD at 1.4276
+sell EURCAD at 1.4076, distance: -22
+close EURCAD at 1.4067
+sell GBPCHF at 1.2555, distance: -12.6
+close GBPCHF at 1.2576
+buy EURUSD at 1.4274, distance: 8.9
+close EURUSD at 1.4269
+buy GBPCHF at 1.257, distance: 10.2
+close GBPCHF at 1.2553
+sell GBPAUD at 1.5756, distance: -9.8
+close GBPAUD at 1.576
+buy EURCAD at 1.4084, distance: 17.2
+close EURCAD at 1.4077
+buy GBPUSD at 1.6312, distance: 18.2
+close GBPUSD at 1.6308
+buy GBPCHF at 1.2578, distance: 26.6
+close GBPCHF at 1.2583
+buy GBPCAD at 1.6096, distance: 29.6
+close GBPCAD at 1.6094
+sell CADJPY at 77.443, distance: -36.6
+close CADJPY at 77.382
+buy GBPCAD at 1.6132, distance: 48.7
+close GBPCAD at 1.6121
+sell GBPCHF at 1.2542, distance: -41
+close GBPCHF at 1.2552
+buy EURCAD at 1.4111, distance: 18.6
+close EURCAD at 1.4103
+sell EURUSD at 1.4234, distance: -33.2
+close EURUSD at 1.4242
+buy GBPCAD at 1.614, distance: 42.1
+close GBPCAD at 1.6126
+buy GBPCHF at 1.2589, distance: 22.1
+close GBPCHF at 1.2567
+sell GBPCAD at 1.6107, distance: -29.6
+close GBPCAD at 1.6113
+sell GBPCHF at 1.2557, distance: -26.1
+close GBPCHF at 1.2563
+sell GBPAUD at 1.576, distance: -23.9
+close GBPAUD at 1.5767
+buy GBPCAD at 1.6117, distance: 10
+close GBPCAD at 1.6109
+sell GBPAUD at 1.5747, distance: -18.1
+close GBPAUD at 1.5748
+sell EURCHF at 1.098, distance: -25.7
+close EURCHF at 1.0996
+buy GBPAUD at 1.5781, distance: 31.8
+close GBPAUD at 1.5781
+buy GBPCHF at 1.2595, distance: 53
+close GBPCHF at 1.2579
+sell EURAUD at 1.3775, distance: -16.4
+close EURAUD at 1.3773
+sell GBPCHF at 1.2566, distance: -33.4
+close GBPCHF at 1.2558
+buy EURJPY at 109.307, distance: 15.6
+close EURJPY at 109.237
+sell GBPCHF at 1.2522, distance: -21.7
+close GBPCHF at 1.2528
+sell GBPCAD at 1.6113, distance: -33.6
+close GBPCAD at 1.6117
+sell GBPCHF at 1.2525, distance: -29.2
+close GBPCHF at 1.2529
+sell GBPAUD at 1.5754, distance: -19.5
+close GBPAUD at 1.5733
+buy EURCHF at 1.0993, distance: 26.5
+close EURCHF at 1.0982
+sell EURAUD at 1.3754, distance: -14.2
+close EURAUD at 1.3762
+sell EURCHF at 1.0982, distance: -16.4
+close EURCHF at 1.0986
+sell GBPCAD at 1.6077, distance: -11.4
+close GBPCAD at 1.6088
+sell GBPUSD at 1.6271, distance: -13
+close GBPUSD at 1.6281
+buy GBPAUD at 1.5749, distance: 14.2
+close GBPAUD at 1.5741
+sell EURCHF at 1.0961, distance: -14.6
+close EURCHF at 1.0971
+sell EURCAD at 1.4058, distance: -14.3
+close EURCAD at 1.4068
+sell EURCHF at 1.096, distance: -13.1
+close EURCHF at 1.0975
+buy EURAUD at 1.3775, distance: 11.9
+close EURAUD at 1.3768
+buy EURCAD at 1.4078, distance: 16.1
+close EURCAD at 1.4084
+buy GBPAUD at 1.5762, distance: 12.8
+close GBPAUD at 1.5749
+buy EURJPY at 109.446, distance: 11.4
+close EURJPY at 109.479
+sell GBPAUD at 1.5746, distance: -24.7
+close GBPAUD at 1.575
+buy GBPCHF at 1.2569, distance: 13.4
+close GBPCHF at 1.2559
+sell GBPJPY at 125.064, distance: -7.7
+close GBPJPY at 125.009
+buy GBPCHF at 1.258, distance: 15.6
+close GBPCHF at 1.261
+sell GBPAUD at 1.572, distance: -7.3
+close GBPAUD at 1.573
+buy GBPCHF at 1.2622, distance: 9
+close GBPCHF at 1.2631
+buy GBPAUD at 1.5742, distance: 18.8
+close GBPAUD at 1.5738
+sell EURCHF at 1.1044, distance: -31.6
+close EURCHF at 1.1048
+sell GBPCHF at 1.2621, distance: -19.4
+close GBPCHF at 1.2631
+buy EURAUD at 1.3781, distance: 15.5
+close EURAUD at 1.3794
+buy GBPAUD at 1.5778, distance: 22.4
+close GBPAUD at 1.5771
+sell EURCHF at 1.1018, distance: -27
+close EURCHF at 1.1031
+sell GBPAUD at 1.5751, distance: -18
+close GBPAUD at 1.5767
+buy GBPCHF at 1.2624, distance: 19.2
+close GBPCHF at 1.2621
+sell GBPAUD at 1.5732, distance: -16
+close GBPAUD at 1.5733
+buy EURCHF at 1.1079, distance: 40.6
+close EURCHF at 1.1066
+sell GBPCHF at 1.2642, distance: -13.7
+close GBPCHF at 1.2647
+buy EURCHF at 1.1072, distance: 6.9
+close EURCHF at 1.1056
+buy GBPAUD at 1.5753, distance: 20.4
+close GBPAUD at 1.5735
+sell GBPCHF at 1.2626, distance: -6.8
+close GBPCHF at 1.2642
+sell EURAUD at 1.3765, distance: -8
+close EURAUD at 1.3778
+buy GBPCHF at 1.2669, distance: 19.4
+close GBPCHF at 1.2641
+sell GBPCAD at 1.6107, distance: -9.1
+close GBPCAD at 1.6141
+sell EURCHF at 1.1069, distance: -5.8
+close EURCHF at 1.1078
+buy GBPJPY at 125.231, distance: 5.6
+close GBPJPY at 124.962
+buy EURUSD at 1.4262, distance: 9.4
+close EURUSD at 1.4253
+buy EURCHF at 1.1098, distance: 20.3
+close EURCHF at 1.1083
+sell CADJPY at 77.474, distance: -5.5
+close CADJPY at 77.616
+sell GBPCHF at 1.2645, distance: -8.9
+close GBPCHF at 1.266
+sell GBPCAD at 1.609, distance: -17.1
