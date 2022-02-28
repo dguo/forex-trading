@@ -1,0 +1,90 @@
+External variables:
+StepPercentage
+Leverage
+SpreadLimit
+
+Global variables:
+PositionSize
+AveragePrice
+LimitPrice
+LockPrice
+Long
+EntrySize
+
+Trailing stop:
+
+Stop loss:
+
+Regular check:
+
+Open a position:
+
+Functions:
+Check if two doubles are the same
+Check if one double is greater than another
+Check if the spread is good
+Check if the time is good
+Check if the limit has been hit
+Place order, given lot size and long/short
+Return the lot size, given the exact size in units
+Close all open orders
+
+0. external variables
+StartPercentage
+Margin
+
+I. global variables
+double PositionSize
+double AveragePrice
+double LimitPrice
+bool Long
+double[] StopIntervals
+double[] StopDistances
+
+II. init
+ResetVariables()
+values for StopIntervals
+values for StopDistances
+UpdateVariables()
+
+II. trailing stop (if open position(s); if limit hit)
+update stop price
+update stop distance
+loop until no open positions
+if stop is hit, close all positions
+if price gets better, update stop price and stop distance
+
+III. stop loss (if open position(s); if free margin < $200)
+close all positions
+send e-mail
+
+IV. regular check (if open position(s))
+Get current bid/ask
+Compare to average depending on long/short
+Determine if position needs to be increased
+If yes and if reversal
+Calculate amount
+Place order
+Update position size
+Update limit price
+
+V. open a position (if no open position(s); if time is good; if margin is good; if spread is good)
+Determine position size
+Place order
+Update global variables
+
+Functions:
+Close all open orders
+Reset the global variables
+Check if the time is good
+Check if limit has been hit
+Check if two doubles are the same
+Check if a double is greater than another double
+Update the global variables
+Find the distance from the limit
+Check if the spread is good
+Place order, given lot size and long/short
+Return the lot size, given the exact size in units
+
+(1.24*100)+(1.24*99)+(1.24*98)
+100+99+98+...+1
